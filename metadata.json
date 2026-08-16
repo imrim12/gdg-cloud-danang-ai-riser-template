@@ -1,0 +1,6 @@
+{
+  "name": "Midone Vue Admin Dashboard",
+  "description": "Vue 3 admin dashboard template with multiple themes and layouts",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
